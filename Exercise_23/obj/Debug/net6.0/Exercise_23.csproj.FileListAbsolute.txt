@@ -1,0 +1,15 @@
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# Семинар дз\Exercise_23\obj\Debug\net6.0\Exercise_23.csproj.AssemblyReference.cache
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# Семинар дз\Exercise_23\obj\Debug\net6.0\Exercise_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# Семинар дз\Exercise_23\obj\Debug\net6.0\Exercise_23.AssemblyInfoInputs.cache
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# Семинар дз\Exercise_23\obj\Debug\net6.0\Exercise_23.AssemblyInfo.cs
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# Семинар дз\Exercise_23\obj\Debug\net6.0\Exercise_23.csproj.CoreCompileInputs.cache
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# Семинар дз\Exercise_23\bin\Debug\net6.0\Exercise_23.exe
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# Семинар дз\Exercise_23\bin\Debug\net6.0\Exercise_23.deps.json
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# Семинар дз\Exercise_23\bin\Debug\net6.0\Exercise_23.runtimeconfig.json
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# Семинар дз\Exercise_23\bin\Debug\net6.0\Exercise_23.dll
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# Семинар дз\Exercise_23\bin\Debug\net6.0\Exercise_23.pdb
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# Семинар дз\Exercise_23\obj\Debug\net6.0\Exercise_23.dll
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# Семинар дз\Exercise_23\obj\Debug\net6.0\refint\Exercise_23.dll
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# Семинар дз\Exercise_23\obj\Debug\net6.0\Exercise_23.pdb
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# Семинар дз\Exercise_23\obj\Debug\net6.0\Exercise_23.genruntimeconfig.cache
+C:\Users\Keldibek\Desktop\GeekBrains\C#\C# Семинар дз\Exercise_23\obj\Debug\net6.0\ref\Exercise_23.dll
